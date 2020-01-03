@@ -1,4 +1,7 @@
-# 2000 most common german surnames / 2000 deutsche Vornamen
-Most common german surnames. List contains 2488 names.
+# Most common german names!
+List with 2488 german firstnames and 100 most common german surnames. Choose the text file you wish to use (comma separated or space separated).
 
-This is a clean version of https://de.wikipedia.org/wiki/Liste_deutscher_Vornamen_germanischer_Herkunft. 
+Clean versions of the following lists:
+
+https://de.wikipedia.org/wiki/Liste_deutscher_Vornamen_germanischer_Herkunft
+https://en.wikipedia.org/wiki/List_of_the_most_common_surnames_in_Germany
